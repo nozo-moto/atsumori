@@ -1,0 +1,17 @@
+{
+  "name": "atsumori",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build_mac": "node build_mac.js",
+    "build_win": "node build_win.js"
+  },
+  "author": "nozomi0966",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "9.0.0",
+    "electron-prebuilt": "1.4.13"
+  },
+  "dependencies": {},
+  "description": ""
+}
